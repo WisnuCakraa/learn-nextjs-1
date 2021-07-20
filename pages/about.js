@@ -2,9 +2,9 @@ import Layout from '../components/Layout';
 
 function Home() {
   return (
-    <Layout title="Home Page">
+    <Layout title="About Page">
       <div className="container">
-        <h1 className="font-bold text-5xl text-blue-600">Hello My Name is Wisnu</h1>
+        <h1 className="font-bold text-5xl text-blue-600">About</h1>
       </div>
     </Layout>
   )
